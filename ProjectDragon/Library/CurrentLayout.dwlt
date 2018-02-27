@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -66,8 +66,8 @@ MonoBehaviour:
     y: 0
     width: 226
     height: 573
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -93,10 +93,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 577, y: 471}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 583, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 51
+  controlID: 9
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -115,8 +115,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -143,7 +143,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -206,10 +206,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 947
-  m_MinSize: {x: 302, y: 471}
+  m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 65
+  controlID: 10
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,10 +230,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 573
-  m_MinSize: {x: 302, y: 200}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 306, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 66
+  controlID: 11
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -288,14 +288,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 820.7248310781288
+  lastFramingTime: 756.5997170775943
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.405616, y: 4.1749163, z: 9.657489}
+    m_Target: {x: -2.1228447, y: -3.0227203, z: -5.296221}
     speed: 2
-    m_Value: {x: 5.405616, y: 4.1749163, z: 9.657489}
+    m_Value: {x: -2.1228447, y: -3.0227203, z: -5.296221}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -319,13 +319,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.3043755, y: -0.012292108, z: 0.00392477, w: -0.9524635}
+    m_Target: {x: -0.21742235, y: 0.034248587, z: -0.0076371026, w: -0.9754524}
     speed: 2
-    m_Value: {x: -0.30437586, y: -0.0122921225, z: 0.0039247745, w: -0.95246464}
+    m_Value: {x: -0.21742113, y: 0.034248393, z: -0.00763706, w: -0.97544694}
   m_Size:
-    m_Target: 49.82216
+    m_Target: 104.84174
     speed: 2
-    m_Value: 49.82216
+    m_Value: 104.84174
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -382,13 +382,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/World Objects/Village
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\HDD Documents\Unity Projects\UdemyRPGCourse\ProjectDragon
+  m_LastProjectPath: C:\Users\ncc\UdemyRPGCourse\ProjectDragon
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be2b0000
-    m_LastClickedID: 11198
-    m_ExpandedIDs: 00000000e22700003a28000072290000ac2a00008e2b0000982b0000bc2b0000002c000000ca9a3bffffff7f
+    m_SelectedIDs: d0320000
+    m_LastClickedID: 13008
+    m_ExpandedIDs: 00000000383000006830000024310000f6310000ae320000b6320000ce3200000833000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -416,7 +416,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7a7dffff
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e22700003a28000072290000ac2a0000bc2b0000002c0000
+    m_ExpandedIDs: 00000000383000006830000024310000f6310000ae320000b6320000ce32000008330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -534,9 +534,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d0dbffff
-    m_LastClickedID: -9264
-    m_ExpandedIDs: 9efbffff00000000a82c0000
+    m_SelectedIDs: 16e4ffff
+    m_LastClickedID: -7146
+    m_ExpandedIDs: bce4ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
